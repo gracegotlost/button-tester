@@ -1,0 +1,23 @@
+# patterns
+*.log
+**/junit.xml
+
+# directories
+.idea
+.vscode
+node_modules
+coverage
+artifacts
+.next
+dist
+static/styleguide
+
+# files
+.DS_Store
+package-lock.json
+package-unified.json
+config/local-development.json
+.npmrc
+
+# tests
+*/**/ignore
